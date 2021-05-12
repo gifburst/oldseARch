@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="selector.js"></script>
+    <script src="write.js"></script>
+    <script src="res.js"></script>
+      <script src="print.js"></script>
+        <script src="parse.js"></script>
+    <title>seARch!</title>
+    <link rel = "stylesheet"
+        type = "text/css"
+        href = "Webstyle.css"
+    />
+</head>
+<body>
+<center><img src="mainlogo.png" width="360" height="100"><br>
+<table border="0" cellspacing="0" cellpadding="5" width="70%">
+<tbody><tr><td bgcolor="#EEEEEE">
+<center>
+seARch the web using seARch!<br>
+   <form id="searchbar" onscroll="fixToTop()" class="example" action="javascript:void(0);">
+        <input type="text"  placeholder="seARch!..." name="search">
+        <button type="submit">seARch! it</button>
+    </form>
+<div>
+  <button type="button" onclick="writeJSON()">Export JSON</button>
+  <button type="button" onclick="writeCSV()">Export CSV</button>
+  <button type="button" onclick="writeXML()">Export XML</button>
+    <div class="selectors">
+  <button type="button" onclick="selectAll()">Select All</button>
+  <button type="button" onclick="deselectAll()">Deselect All</button>
+  
+ 
+</div>
+ <a style="display: none; width: fit-content;" href="" id="a" download>Download it!</a>
+  
+</div>
+    <p class="results"></p>
+    <br>
+<script src="search.js"></script>
+<i>seARch contains all your favorite websites... all you have to do is seARch!</i>
+</center>
+</td></tr><tr><td>
+<center>
+<h2><a href="about.html">More seARch!</a></h2>
+</center>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+</center>
+
+<center><font size="-1">Copyright ©2021 squ:rre/ industries and seARch!</font></center>
+
+
+
+
+
+</body>
+</html>
