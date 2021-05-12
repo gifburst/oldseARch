@@ -1,5 +1,5 @@
 # seARch
-seARch! is a reseARch project developed by me
+seARch! is a reseARch project developed by squ:rre/ com
 to use it goto https://searchtheweb.github.io/seARch/. seARch! is a work in progress be sure to check here for new updates
 
 VERSION 1:
