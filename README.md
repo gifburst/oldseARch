@@ -14,4 +14,9 @@ VERSION 1.1.1
 Added Cool New and News buttons which redirect you to site related to the button. the links will change every week
 
 
+Wanna see old versions? goto https://web.archive.org/web/20210515091017/https://squirrelcom.github.io/seARch/ or https://web.archive.org/web/20210512181305/https://searchtheweb.github.io/seARch/
+
+
 Copyright ©2021 squ:rre/ industries and seARch!
+
+
